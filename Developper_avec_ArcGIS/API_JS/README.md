@@ -2,4 +2,4 @@ Ce site a été créé à but de démonstration. Il montre comment utiliser l'AP
 cartographique au sein de laquelle sont utilisés des couches, des widgets,...
 
 
-This site was created for demonstration purposes.
+This website was created for demonstration purposes.
